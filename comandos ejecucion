@@ -1,0 +1,6 @@
+
+cd frontend src
+npm run dev
+
+cd backend src
+node app.js
